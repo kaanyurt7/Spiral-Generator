@@ -7,5 +7,9 @@
   "author": {
     "name": "Kaan Yurtseven",
     "url": "https://github.com/kaanyurt7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaanyurt7/Spiral-Generator.git"
   }
 }
