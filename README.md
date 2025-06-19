@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spiral Generator (Unity Package)
 
 This package provides a customizable tool to generate spiral shapes and paths within Unity. It is ideal for procedural level design, effects, and visualization purposes.
@@ -23,3 +24,6 @@ This package provides a customizable tool to generate spiral shapes and paths wi
 
 ```json
 "com.kaanyurt7.spiral": "C:/Users/suppo/Desktop/com.kaanyurt7.spiral"
+=======
+# Spiral-Generator
+>>>>>>> 73a6f02fed0ff76c0b51f6f5718df402622aaae1
