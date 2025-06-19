@@ -1,0 +1,11 @@
+{
+  "name": "com.kaanyurt7.spiral",
+  "version": "1.0.0",
+  "displayName": "Spiral Generator",
+  "description": "A tool for generating spiral shapes and paths in Unity.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Kaan Yurtseven",
+    "url": "https://github.com/kaanyurt7"
+  }
+}
